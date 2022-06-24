@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="vistas.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="709" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="lectores.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21944" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="95" />
+			<Collapse line="438" />
+			<Collapse line="453" />
+			<Collapse line="544" />
+			<Collapse line="577" />
+			<Collapse line="589" />
+			<Collapse line="595" />
+			<Collapse line="601" />
+			<Collapse line="635" />
+			<Collapse line="660" />
+			<Collapse line="1014" />
+			<Collapse line="1041" />
+			<Collapse line="1048" />
+			<Collapse line="1058" />
+			<Collapse line="1156" />
+			<Collapse line="1163" />
+			<Collapse line="1182" />
+		</Folding>
+	</File>
+	<File name="Librerias\pila.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="349" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="constantes.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="491" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="vistas.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1318" topLine="46" />
+		</Cursor>
+		<Folding>
+			<Collapse line="67" />
+			<Collapse line="112" />
+			<Collapse line="174" />
+			<Collapse line="218" />
+			<Collapse line="351" />
+			<Collapse line="393" />
+			<Collapse line="464" />
+			<Collapse line="486" />
+			<Collapse line="531" />
+			<Collapse line="577" />
+			<Collapse line="623" />
+			<Collapse line="734" />
+			<Collapse line="751" />
+			<Collapse line="752" />
+			<Collapse line="777" />
+			<Collapse line="803" />
+			<Collapse line="965" />
+			<Collapse line="1010" />
+			<Collapse line="1185" />
+			<Collapse line="1195" />
+			<Collapse line="1205" />
+			<Collapse line="1234" />
+		</Folding>
+	</File>
+	<File name="persistencia.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="465" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mensajes.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="285" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Librerias\gotoxy.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="70" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="libros.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9059" topLine="121" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="47" />
+			<Collapse line="78" />
+			<Collapse line="85" />
+			<Collapse line="95" />
+		</Folding>
+	</File>
+	<File name="persistencia.c" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6831" topLine="145" />
+		</Cursor>
+		<Folding>
+			<Collapse line="137" />
+			<Collapse line="201" />
+			<Collapse line="228" />
+			<Collapse line="238" />
+			<Collapse line="283" />
+			<Collapse line="336" />
+			<Collapse line="354" />
+		</Folding>
+	</File>
+	<File name="libros.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1114" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="utilities.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1784" topLine="10" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="18" />
+			<Collapse line="33" />
+			<Collapse line="40" />
+			<Collapse line="50" />
+			<Collapse line="196" />
+			<Collapse line="211" />
+		</Folding>
+	</File>
+	<File name="lectores.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="560" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="Librerias\pila.c" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="158" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="utilities.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="462" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="constantes.c" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="523" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="mensajes.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7592" topLine="169" />
+		</Cursor>
+		<Folding>
+			<Collapse line="32" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

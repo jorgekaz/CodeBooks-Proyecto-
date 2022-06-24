@@ -1,0 +1,538 @@
+# depslib dependency file v1.0
+1655917118 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"vistas.h"
+	"lectores.h"
+	"mensajes.h"
+	"utilities.h"
+
+1653264574 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.c
+	"menu.h"
+	<windows.h>
+	<locale.h>
+	"gotoxy.h"
+
+1653260319 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.h
+
+1491400450 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyecto programacion y laboratorio i\libreria - proyecto integrador\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1653008049 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyecto programacion y laboratorio i\libreria - proyecto integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	"Librerias/menu.h"
+	"Librerias/gotoxy.h"
+
+1652911634 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyecto programacion y laboratorio i\libreria - proyecto integrador\librerias\menu.h
+	<stdio.h>
+	<malloc.h>
+
+1491399896 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyecto programacion y laboratorio i\libreria - proyecto integrador\librerias\gotoxy.h
+
+1653004823 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio 1\proyecto programacion y laboratorio i\libreria - proyecto integrador\librerias\menu.c
+	"menu.h"
+	<windows.h>
+	<locale.h>
+	"gotoxy.h"
+
+1491400450 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1653140183 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.c
+	"menu.h"
+	<windows.h>
+	<locale.h>
+	"gotoxy.h"
+
+1653057895 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.h
+	<stdio.h>
+	<malloc.h>
+
+1491399896 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.h
+
+1655917118 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"vistas.h"
+	"lectores.h"
+	"mensajes.h"
+	"utilities.h"
+
+1617752071 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.c
+	"pila.h"
+
+1617746533 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1617752071 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.c
+	"pila.h"
+
+1617746533 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1491400450 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1653264574 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.c
+	"menu.h"
+	<windows.h>
+	<locale.h>
+	"gotoxy.h"
+
+1653260319 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\menu.h
+	<stdio.h>
+	<malloc.h>
+
+1491399896 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\gotoxy.h
+
+1617752071 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.c
+	"pila.h"
+
+1617746533 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1655917118 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"vistas.h"
+	"lectores.h"
+	"mensajes.h"
+	"utilities.h"
+
+1656075703 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.c
+	"lectores.h"
+
+1656076231 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.c
+	"libros.h"
+
+1656075692 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.c
+	"mensajes.h"
+
+1653750836 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\menu.c
+
+1654602216 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.h
+
+1655911321 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"Librerias/pila.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+	"libros.h"
+	"mensajes.h"
+	"persistencia.h"
+
+1655911389 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+
+1654720635 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+	"vistas.h"
+	"persistencia.h"
+
+1655923298 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.c
+	"lectores.h"
+
+1656031038 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.c
+	"libros.h"
+
+1654602216 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.h
+
+1655911321 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"Librerias/pila.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+	"libros.h"
+	"mensajes.h"
+	"persistencia.h"
+
+1655911389 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+
+1654720635 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+	"vistas.h"
+	"persistencia.h"
+
+1655923526 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.c
+	"mensajes.h"
+
+1655922446 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.c
+	"vistas.h"
+
+1655899271 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+
+1653922314 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.c
+
+1656032226 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.c
+	"utilities.h"
+
+1654721436 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+
+1655855234 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.c
+	"persistencia.h"
+
+1655911458 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+	"mensajes.h"
+	"lectores.h"
+	"libros.h"
+
+1653859411 source:d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\administrador.c
+	"Administrador.h"
+
+1653861139 d:\cesar\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\administrador.h
+	"constantes.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"libros.h"
+	"persistencia.h"
+
+1653859411 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\administrador.c
+	"Administrador.h"
+
+1653926222 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\administrador.h
+	"constantes.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	"persistencia.h"
+
+1655899271 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+
+1656075420 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+
+1655911458 e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+	"mensajes.h"
+	"lectores.h"
+	"libros.h"
+
+1653922314 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.c
+
+1655855234 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.c
+	"persistencia.h"
+
+1656075391 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.c
+	"utilities.h"
+
+1655922446 source:e:\dropbox\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.c
+	"vistas.h"
+
+1653922314 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.c
+
+1655923298 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.c
+	"lectores.h"
+
+1655911321 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\lectores.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"Librerias/pila.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+	"libros.h"
+	"mensajes.h"
+	"persistencia.h"
+
+1654602216 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\constantes.h
+
+1655911389 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+
+1655899271 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+
+1654721436 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+
+1654720635 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+	"vistas.h"
+	"persistencia.h"
+
+1655911458 c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+	"mensajes.h"
+	"lectores.h"
+	"libros.h"
+
+1656031038 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\libros.c
+	"libros.h"
+
+1655923526 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\mensajes.c
+	"mensajes.h"
+
+1655855234 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\persistencia.c
+	"persistencia.h"
+
+1655761930 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\utilities.c
+	"utilities.h"
+
+1655922446 source:c:\users\usuario\dropbox\utn completa\cursada\programacion\proyecto final\libreria - proyecto integrador\vistas.c
+	"vistas.h"
+
+1653922314 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\constantes.c
+
+1656075703 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\lectores.c
+	"lectores.h"
+
+1655911321 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\lectores.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"Librerias/pila.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+	"libros.h"
+	"mensajes.h"
+	"persistencia.h"
+
+1617746533 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1654602216 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\constantes.h
+
+1655899271 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\vistas.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+
+1491399896 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\librerias\gotoxy.h
+
+1656075420 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\utilities.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<strings.h>
+	<conio.h>
+	<math.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+
+1655911389 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	"Librerias/gotoxy.h"
+	"constantes.h"
+	"vistas.h"
+	"utilities.h"
+
+1654720635 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\mensajes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"Librerias/gotoxy.h"
+	"vistas.h"
+	"persistencia.h"
+
+1655911458 d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\persistencia.h
+	<stdio.h>
+	<stdlib.h>
+	"utilities.h"
+	"mensajes.h"
+	"lectores.h"
+	"libros.h"
+
+1491400450 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\librerias\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1617752071 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\librerias\pila.c
+	"pila.h"
+
+1656076231 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\libros.c
+	"libros.h"
+
+1655917118 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<locale.h>
+	<windows.h>
+	"constantes.h"
+	"vistas.h"
+	"lectores.h"
+	"mensajes.h"
+	"utilities.h"
+
+1656075692 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\mensajes.c
+	"mensajes.h"
+
+1656104399 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\persistencia.c
+	"persistencia.h"
+
+1656075391 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\utilities.c
+	"utilities.h"
+
+1655922446 source:d:\tecnicatura en programacion\1er cuatrimestre\programacion y laboratorio i\codebooks\vistas.c
+	"vistas.h"
+

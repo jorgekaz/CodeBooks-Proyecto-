@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Libreria - Proyecto integrador" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Libreria - Proyecto integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Libreria - Proyecto integrador" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Librerias/gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Librerias/gotoxy.h" />
+		<Unit filename="Librerias/pila.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Librerias/pila.h" />
+		<Unit filename="constantes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="constantes.h" />
+		<Unit filename="lectores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lectores.h" />
+		<Unit filename="libros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="libros.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensajes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensajes.h" />
+		<Unit filename="persistencia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="persistencia.h" />
+		<Unit filename="utilities.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="utilities.h" />
+		<Unit filename="vistas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vistas.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
